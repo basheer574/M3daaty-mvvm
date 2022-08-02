@@ -1,2 +1,2 @@
 # M3daaty-mvvm
-Simple Application for ffood recipes.
+Simple Application for food recipes.
